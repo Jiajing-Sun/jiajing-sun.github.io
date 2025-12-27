@@ -8,7 +8,7 @@ date: 2011-01-01
 venue: 'Journal of Biopharmaceutical Statistics'
 slidesurl: ''
 paperurl: ''
-bibtexurl: ''
+bibtexurl: 'https://academicpages.github.io/files/bibtex13.bib'
 citation: 'Sun, J., Chernick, M. R., & LaBudde, R. A. (2011). "A bootstrap test for comparing two variances: simulation of size and power in small samples." <i>Journal of Biopharmaceutical Statistics</i>, 21(6), 1079-1093.'
 ---
 ## Abstract
