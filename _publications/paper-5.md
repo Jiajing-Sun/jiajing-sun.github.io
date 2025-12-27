@@ -9,6 +9,7 @@ pages: "110394"
 doi: "https://doi.org/10.1016/j.econlet.2022.110394"
 tags: ["Stochastic Trends", "Econometrics", "Conditional Variances"]
 permalink: /publications/paper-5/
+collection: publications  
 ---
 
 ## Abstract
