@@ -8,7 +8,7 @@ date: 2013-01-01
 venue: 'Energy Economics'
 slidesurl: ''
 paperurl: ''
-bibtexurl: ''
+bibtexurl: 'https://academicpages.github.io/files/bibtex12.bib'
 citation: 'Li, Z., Sun, J., & Wang, S. (2013). "An information diffusion-based model of oil futures price." <i>Energy Economics</i>, 36, 518-525.'
 ---
 
