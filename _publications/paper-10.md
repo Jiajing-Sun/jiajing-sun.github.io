@@ -8,7 +8,7 @@ date: 2018-01-01
 venue: 'Journal of Multivariate Analysis'
 slidesurl: ''
 paperurl: ''
-bibtexurl: ''
+bibtexurl: 'https://academicpages.github.io/files/bibtex10.bib'
 citation: 'Cui, W., Cheng, H., & Sun, J. (2018). "An RKHS-based approach to double-penalized regression in high-dimensional partially linear models." <i>Journal of Multivariate Analysis</i>, 168, 201-210.'
 ---
 ## Abstract
