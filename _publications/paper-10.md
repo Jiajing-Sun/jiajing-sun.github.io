@@ -6,7 +6,6 @@ permalink: /publication/2018-01-01-rkhs-regression
 excerpt: 'This paper introduces an RKHS-based approach for double-penalized regression in high-dimensional partially linear models.'
 date: 2018-01-01
 venue: 'Journal of Multivariate Analysis'
-slidesurl: ''
 paperurl: 'https://doi.org/10.1016/j.jmva.2018.07.013'
 bibtexurl: 'https://academicpages.github.io/files/bibtex10.bib'
 citation: 'Cui, W., Cheng, H., & Sun, J. (2018). "An RKHS-based approach to double-penalized regression in high-dimensional partially linear models." <i>Journal of Multivariate Analysis</i>, 168, 201-210.'
