@@ -6,7 +6,6 @@ permalink: /publication/2025-01-01-adjusted-range-based-self-normalized-autocorr
 excerpt: 'This paper develops an adjusted-range-based self-normalized method for autocorrelation tests in time series analysis. The approach enhances statistical power while maintaining robustness against model misspecification.'
 date: 2025-01-01
 venue: 'Economics Letters'
-slidesurl: ''
 paperurl: 'https://doi.org/10.1016/j.econlet.2025.112315'
 bibtexurl: 'https://academicpages.github.io/files/bibtex2.bib'
 citation: 'Sun, J., Zhu, M., & Linton, O. (2025). "Adjusted-range-based self-normalized autocorrelation tests." <i>Economics Letters</i>, 251, 112315.'
