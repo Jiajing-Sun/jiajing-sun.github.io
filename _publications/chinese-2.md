@@ -10,6 +10,7 @@ pages: "551-568"
 doi: "http://lib.cqvip.com/Qikan/Article/Detail?id=7103807087"
 tags: ["Integer-Valued Process", "Respiratory Disease", "Chinese Journal"]
 permalink: /publications/chinese-2/
+collection: publications  
 ---
 
 ## Abstract
