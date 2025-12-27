@@ -6,6 +6,7 @@ publication_date: "2020-01-01"
 publication_journal: "Centre for Forecasting Science, Chinese Academy of Sciences"
 tags: ["COVID-19", "Policy", "China"]
 permalink: /publications/policy-2/
+collection: publications  
 ---
 
 ## Abstract
