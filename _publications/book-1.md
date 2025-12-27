@@ -5,6 +5,7 @@ authors: "Sun, J."
 publication_date: "2026-01-01"
 tags: ["Finance", "Econometrics", "Textbook"]
 permalink: publications/book-1/
+collection: publications  # Add this line to link it to the publications collection
 ---
 
 ## Abstract
