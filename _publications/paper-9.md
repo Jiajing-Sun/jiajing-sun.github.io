@@ -8,7 +8,7 @@ date: 2018-01-01
 venue: 'Environment and Planning C: Politics and Space'
 slidesurl: ''
 paperurl: ''
-bibtexurl: ''
+bibtexurl: 'https://academicpages.github.io/files/bibtex9.bib'
 citation: 'Sun, J., Cole, M., Huang, Z., & Wang, S. (2018). "Chinese leadership: Provincial perspectives on promotion and performance." <i>Environment and Planning C: Politics and Space</i>, 37(4), 750-772.'
 ---
 
