@@ -9,6 +9,7 @@ pages: "112315"
 doi: "https://doi.org/10.1016/j.econlet.2025.112315"
 tags: ["Econometrics", "Autocorrelation", "Self-Normalization"]
 permalink: /publications/paper-2/
+collection: publications  
 ---
 
 ## Abstract
