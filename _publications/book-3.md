@@ -7,9 +7,9 @@ excerpt: 'A comprehensive English-language textbook on econometrics and time ser
 date: 2026-01-01
 venue: "Springer"
 slidesurl: 'https://academicpages.github.io/files/Econometrics_R.pdf'
-paperurl: ""
+
 bibtexurl: "https://github.com/QuantLet/Econometrics_R"
-citation: 'Hong, Y., Linton, O., & Sun, J. (2024). "Econometrics and Time Series Methods: Theory, Applications, and R Implementation." Springer.'
+citation: 'Hong, Y., Linton, O., & Sun, J. (2026 forthcoming). "Econometrics and Time Series Methods: Theory, Applications, and R Implementation." Springer.'
 ---
 
 ## Abstract
