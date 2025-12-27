@@ -4,13 +4,7 @@ title: "Welcome to My Academic Homepage"
 permalink: /
 author_profile: true
 ---
-
-<img width="527" height="185" alt="image" src="https://github.com/user-attachments/assets/4a784346-956c-4ccf-ba28-f1a08e2eeee1" />---
-layout: single
-title: "Welcome to My Academic Homepage"
-permalink: /
-author_profile: true
----
+ 
 
 # About Jiajing Sun
 
