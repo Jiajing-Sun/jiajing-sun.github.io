@@ -10,7 +10,7 @@ author_profile: true  # Ensure this is set to true
 
 1. [Structural stability of functional data: A new adjusted-range-based self-normalization approach](./paper-1)
 2. [Adjusted-range-based self-normalized autocorrelation tests](./paper-2)
-3. [Governmental capabilities and responsiveness: Global investigations into CO(_2) emissions and decarbonization](./paper-3)
+3. [Governmental capabilities and responsiveness: Global investigations into CO_2 emissions and decarbonization](./paper-3)
 4. [Kolmogorov–Smirnov type testing for structural breaks: A new adjusted-range-based self-normalization approach](./paper-4)
 5. [A score statistic for testing the presence of a stochastic trend in conditional variances](./paper-5)
 6. [Adjusted-range self-normalized confidence interval construction for censored dependent data](./paper-6)
