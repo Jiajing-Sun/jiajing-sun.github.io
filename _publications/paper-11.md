@@ -9,7 +9,7 @@ issue: "3"
 pages: "315-329"
 doi: "https://doi.org/10.1111/jtsa.12014"
 tags: ["Time Series", "Count Data", "Serial Dependence"]
-permalink: /publications/paper-10/
+permalink: /publications/paper-11/
 collection: publications  
 ---
 
