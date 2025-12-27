@@ -13,9 +13,9 @@ title                    : "Jiajing Sun"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Jiajing Sun's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://jiajing-sun.github.io" 
+url                      : "https://jiajingsun.github.io" 
 baseurl                  : ""
-repository               : "Jiajing-Sun/jiajing-sun.github.io"
+repository               : "Jiajing-Sun/jiajingsun.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ pronouns         :                          # can leave empty or use "she/her"
  bio              : "PhD, CFA, FIMA. Associate Professor in the Department of Statistics and Data Science, School of Economics and Management, University of the Chinese Academy of Sciences."
   location         : "Earth"
  employer         : "School of Economics and Management, University of Chinese Academy of Sciences"
-  uri              : "https://people.ucas.ac.cn/~jiajing-sun?language=en"
+  uri              : "https://people.ucas.ac.cn/~jiajingsun?language=en"
   email            : "jiajing.sun@gmail.com"
 
   # Academic websites
