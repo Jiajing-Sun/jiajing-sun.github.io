@@ -9,6 +9,7 @@ pages: "201-210"
 doi: "https://doi.org/10.1016/j.jmva.2018.07.013"
 tags: ["Statistics", "High-Dimensional Models", "RKHS"]
 permalink: /publications/paper-9/
+collection: publications  
 ---
 
 ## Abstract
