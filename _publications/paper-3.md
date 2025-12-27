@@ -8,6 +8,7 @@ pages: "1–19"
 doi: "https://doi.org/10.1080/01900692.2024.2386271"
 tags: ["Governance", "Environmental Policy", "Decarbonization"]
 permalink: /publications/paper-3/
+collection: publications  
 ---
 
 ## Abstract
