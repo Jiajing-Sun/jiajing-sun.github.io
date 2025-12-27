@@ -9,6 +9,7 @@ publisher: "Science Press"
 location: "Beijing, China"
 tags: ["Chinese Stock Market", "Bear Markets", "Policy"]
 permalink: /book-chapter-2/
+collection: publications  
 ---
 
 ## Abstract
