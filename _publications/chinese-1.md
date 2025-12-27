@@ -10,6 +10,7 @@ pages: "122-133"
 doi: "https://doi.org/10.19343/j.cnki.11-1302/c.2022.04.009"
 tags: ["Structural Breaks", "Self-Normalization", "Chinese Journal"]
 permalink: /publications/chinese-1/
+collection: publications  
 ---
 
 ## Abstract
