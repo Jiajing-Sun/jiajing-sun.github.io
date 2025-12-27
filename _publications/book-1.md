@@ -1,11 +1,15 @@
 ---
-layout: publication
 title: "Financial Econometrics: Theory, Cases, and R (in Chinese)"
-authors: "Sun, J."
-publication_date: "2026-01-01"
-tags: ["Finance", "Econometrics", "Textbook"]
-permalink: publications/book-1/
-collection: publications  # Add this line to link it to the publications collection
+collection: publications
+category: manuscripts
+permalink: /publication/publications/book-1
+excerpt: 'This textbook provides a comprehensive introduction to financial econometrics, covering fundamental theories and practical applications, with a focus on R programming.'
+date: 2026-01-01
+venue: 'Higher Education Press (Beijing)'
+slidesurl: ''  # Add link to slides if applicable
+paperurl: ''  # No paper URL, as this is a book
+bibtexurl: ''  # Add BibTeX file URL if available
+citation: 'Sun, J., Hong, Y., and Linton, O. (2026). "Financial Econometrics: Theory, Cases, and R (in Chinese)." Higher Education Press (Beijing).'
 ---
 
 ## Abstract
