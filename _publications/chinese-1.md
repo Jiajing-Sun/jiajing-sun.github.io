@@ -1,5 +1,5 @@
 ---
-title: "基于调整样本值域的自正则结构性变化的检验"
+title: "基于调整样本值域的自正则结构性变化的检验 (An adjusted-range based self-normalized statistic for testing structural breaks. Statistical Research)"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-01-01-adjusted-sample-range-structural-breaks
@@ -9,7 +9,7 @@ venue: '统计研究 (Statistical Research)'
 slidesurl: ''
 paperurl: ''
 bibtexurl: ''
-citation: '孙佳婧（通讯作者）等 (2022). "基于调整样本值域的自正则结构性变化的检验." <i>统计研究</i>, 39(04): 122-133.'
+citation: 'Hong, Y., Sun, J., McCabe, B., & Wang, S. (2022). "An adjusted-range based self-normalized statistic for testing structural breaks." <i>统计研究</i>, 39(04): 122-133.'
 ---
 
 This paper proposes an adjusted sample range-based self-normalization method for testing structural breaks in time series. The method performs well under strong dependence and heavy-tail distributions, significantly improving the accuracy of structural break testing.
