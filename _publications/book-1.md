@@ -1,15 +1,15 @@
 ---
-title: "金融计量经济学：理论、案例与 R 语言"
+title: "金融计量经济学：理论、案例与 R 语言 (Financial Econometrics: Theory, Cases, and R Language)"
 collection: publications
 category: books
 permalink: /publication/publications/book-1
-excerpt: '本书全面介绍了金融计量经济学，涵盖了回归分析、时间序列建模、ARCH/GARCH模型等内容，重点使用R语言进行数据分析。'
+excerpt: 'This book provides a comprehensive introduction to financial econometrics with a focus on data analysis using the R language.'
 date: 2026-01-01
-venue: '高等教育出版社（教育部下属）'
+venue: '高等教育出版社（Higher Education Press）'
 slidesurl: ''
 paperurl: ''
 bibtexurl: ''
-citation: '孙佳婧（第一作者，与洪永淼教授、Oliver Linton教授合作）《金融计量经济学：理论、案例与 R 语言》，高等教育出版社（教育部下属），2026年。'
+citation: 'Sun, J., Hong, Y., & Linton, O. (forthcoming 2026). 金融计量经济学：理论、案例与 R 语言 (Financial Econometrics: Theory, Cases, and R). Higher Education Press.'
 ---
 ## Abstract
 
