@@ -9,6 +9,7 @@ pages: "955376"
 doi: "https://doi.org/10.3389/fpsyg.2022.955376"
 tags: ["Social Media", "Government", "COVID-19"]
 permalink: /publications/paper-8/
+collection: publications  
 ---
 
 ## Abstract
