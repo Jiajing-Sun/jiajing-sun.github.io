@@ -6,6 +6,7 @@ publication_date: "2024-01-01"
 publication_journal: "Energy Security and Net Zero Committee of UK Parliament"
 tags: ["Policy", "Net Zero", "Trade", "UK Parliament"]
 permalink: /publications/policy-1/
+collection: publications  
 ---
 
 ## Abstract
