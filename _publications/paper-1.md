@@ -7,6 +7,7 @@ publication_journal: "Economics Letters"
 status: "To be published"
 tags: ["Econometrics", "Functional Data"]
 permalink: /publications/paper-1   
+collection: publications  
 ---
 
 
