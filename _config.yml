@@ -23,13 +23,13 @@ repository               : "Jiajing-Sun/jiajing-sun.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Jiajing Sun"
+pronouns         :                          # can leave empty or use "she/her"
+ bio              : "PhD, CFA, FIMA. Associate Professor in the Department of Statistics and Data Science, School of Economics and Management, University of the Chinese Academy of Sciences."
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+ employer         : "School of Economics and Management, University of Chinese Academy of Sciences"
+  uri              : "https://people.ucas.ac.cn/~jiajing-sun?language=en"
+  email            : "jiajing.sun@gmail.com"
 
   # Academic websites
   academia         : # URL
