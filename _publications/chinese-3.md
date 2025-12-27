@@ -7,6 +7,7 @@ publication_journal: "Econometrics Letters"
 status: "Accepted, Awaiting Publication"
 tags: ["Count Data", "Autoregressive Models", "Model Averaging", "Econometrics"]
 permalink: /publications/chinese-3/
+collection: publications  
 ---
 
 ## Abstract
