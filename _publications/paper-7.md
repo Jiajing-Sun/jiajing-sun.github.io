@@ -9,6 +9,7 @@ pages: "114465"
 doi: "https://doi.org/10.1016/j.jenvman.2022.114465"
 tags: ["Innovation", "Carbon Emissions", "Environmental Management"]
 permalink: /publications/paper-7/
+collection: publications  
 ---
 
 ## Abstract
