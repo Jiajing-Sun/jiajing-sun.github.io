@@ -9,7 +9,8 @@ issue: "4"
 pages: "750-772"
 doi: "https://doi.org/10.1177/2399654418791580"
 tags: ["Leadership", "China", "Politics"]
-permalink: /publications/paper-8/
+permalink: /publications/paper-9/
+collection: publications  
 ---
 
 ## Abstract
