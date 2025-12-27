@@ -8,7 +8,7 @@ date: 2025-01-01
 venue: 'Economics Letters'
 slidesurl: ''
 paperurl: 'https://doi.org/10.1016/j.econlet.2025.112315'
-bibtexurl: ''
+bibtexurl: 'https://academicpages.github.io/files/bibtex2.bib'
 citation: 'Sun, J., Zhu, M., & Linton, O. (2025). "Adjusted-range-based self-normalized autocorrelation tests." <i>Economics Letters</i>, 251, 112315.'
 ---
 ## Abstract
