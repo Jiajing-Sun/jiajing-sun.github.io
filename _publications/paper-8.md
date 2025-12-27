@@ -8,7 +8,7 @@ date: 2022-01-01
 venue: 'Frontiers in Psychology'
 slidesurl: ''
 paperurl: ''
-bibtexurl: ''
+bibtexurl: 'https://academicpages.github.io/files/bibtex8.bib'
 citation: 'Shao, C., Guan, X., Sun, J., Cole, M., & Liu, G. (2022). "Social media interactions between government and the public: A Chinese case study of government WeChat official accounts on information related to COVID-19." <i>Frontiers in Psychology</i>, 13, 955376.'
 ---
 ## Abstract
