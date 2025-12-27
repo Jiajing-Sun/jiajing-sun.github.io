@@ -10,6 +10,7 @@ pages: "105603"
 doi: "https://doi.org/10.1016/j.jeconom.2023.105603"
 tags: ["Econometrics", "Structural Breaks", "Self-Normalization"]
 permalink: /publications/paper-4/
+collection: publications  
 ---
 
 ## Abstract
