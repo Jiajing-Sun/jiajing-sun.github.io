@@ -10,7 +10,7 @@ author_profile: true
 
 I am an **Associate Professor** in the **Department of Statistics and Data Science** at the **School of Economics and Management**, **University of Chinese Academy of Sciences (UCAS)**, located in Beijing, China. My primary research focuses on **econometrics**, **financial econometrics**, and the **intersection of data science and economics**.
 
-## Research Interests
+## Research Interests 
 
 My research spans several domains within **econometrics**, with a particular passion for **financial econometrics**. I develop and apply innovative econometric models to analyze and predict economic and financial trends. One of my key areas of focus is **modeling financial markets**, particularly through **time series analysis**, **volatility modeling**, and **risk management**.
 
