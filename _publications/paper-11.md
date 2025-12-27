@@ -8,7 +8,7 @@ date: 2013-01-01
 venue: 'Journal of Time Series Analysis'
 slidesurl: ''
 paperurl: ''
-bibtexurl: ''
+bibtexurl: 'https://academicpages.github.io/files/bibtex11.bib'
 citation: 'Sun, J., & McCabe, B. P. (2013). "Score statistics for testing serial dependence in count data." <i>Journal of Time Series Analysis</i>, 34(3), 315-329.'
 ---
 
