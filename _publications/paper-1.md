@@ -8,7 +8,7 @@ date: 2025-01-01
 venue: 'Economics Letters'
 slidesurl: ''
 paperurl: 'https://doi.org/10.1016/j.econlet.2025.112350'
-bibtexurl: ''
+bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Sun, J., Hong, Y., Lin, Z., & Xu, W. (2025). "Structural stability of functional data: A new adjusted-range-based self-normalization approach." <i>Economics Letters</i>, 253, 112350.'
 ---
 ## Abstract
