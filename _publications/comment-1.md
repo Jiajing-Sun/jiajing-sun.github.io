@@ -7,6 +7,7 @@ publication_journal: "Royal Statistical Society: Series B (Statistical Methodolo
 doi: "https://doi.org/10.1093/jrsssb/qkad152"
 tags: ["Machine Learning", "Statistics", "Discussion"]
 permalink: /publications/comment-1/
+collection: publications  
 ---
 
 ## Abstract
