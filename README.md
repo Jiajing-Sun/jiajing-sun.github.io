@@ -8,8 +8,12 @@ author_profile: true
 
 # About Jiajing Sun
 
-I am an **Associate Professor** in the **Department of Statistics and Data Science** at the **School of Economics and Management**, **University of Chinese Academy of Sciences (UCAS)**, located in Beijing, China. My primary research focuses on **econometrics**, **financial econometrics**, and the **intersection of data science and economics**.
+I am an **Associate Professor** in the **Department of Statistics and Data Science** at the **School of Economics and Management**, **University of Chinese Academy of Sciences (UCAS)**, located in Beijing, China. My primary research focuses on **econometrics**, **financial econometrics**, and the **intersection of data science and economics**.  
 
+I am also a **Chartered Financial Analyst (CFA)** and a **Fellow of the Institute of Mathematics and its Applications (FIMA)**. These professional qualifications reflect my strong academic background and practical experience in **finance**, **mathematics**, and **econometrics**.
+
+In addition to my core research areas, I have a broad academic interest in **environmental management** and **environmental economics**. I have worked on projects related to the economic implications of **environmental policies** and **climate change**, exploring how econometric methods can be applied to **sustainable development**.
+ 
 ## Research Interests 
 
 My research spans several domains within **econometrics**, with a particular passion for **financial econometrics**. I develop and apply innovative econometric models to analyze and predict economic and financial trends. One of my key areas of focus is **modeling financial markets**, particularly through **time series analysis**, **volatility modeling**, and **risk management**.
