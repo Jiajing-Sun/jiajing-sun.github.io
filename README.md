@@ -1,96 +1,46 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
-
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
-
-# Getting Started
-
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
-
-See more info at https://academicpages.github.io/
-
-## Running locally
-
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
-
-1. Clone the repository and made updates as detailed above.
-
-### Using a different IDE
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
-    ```bash
-    sudo apt update && sudo apt upgrade -y
-    ```
-    then try run `sudo apt install ruby-dev ruby-bundler nodejs` again.
-
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-
-    If you see file permission error like `Fetching bundler-2.6.3.gem ERROR:  While executing gem (Gem::FilePermissionError) You don't have write permissions for the /var/lib/gems/3.2.0 directory.` or `Bundler::PermissionError: There was an error while trying to write to /usr/local/bin.`
-    Install Gems Locally (Recommended):
-    ```bash
-    bundle config set --local path 'vendor/bundle'
-    ```
-    then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and `.bundle`.
-
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change to Markdown (*.md) and HTML files, while changes to the core template and configuration (i.e., `_config.yml`) will require stoping and restarting Jekyll.
-    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
-
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
-
-## Using Docker
-
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
-
-You can build and execute the container by running the following command in the repository:
-
-```bash
-chmod -R 777 .
-docker compose up
-```
-
-You should now be able to access the website from `localhost:4000`.
-
-### Using the DevContainer in VS Code
-
-If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development container configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
-
-# Maintenance
-
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
-
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
-
-## Bugfixes and enhancements
-
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
-
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
-
 ---
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
+layout: single
+title: "Welcome to My Academic Homepage"
+permalink: /
+author_profile: true
+---
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+# About Jiajing Sun
+
+I am an **Associate Professor** in the **Department of Statistics and Data Science** at the **School of Economics and Management**, **University of Chinese Academy of Sciences** (UCAS), located in Beijing, China. My primary research focuses on **econometrics**, **financial econometrics**, and the **intersection of data science and economics**.
+
+## Research Interests
+
+My research interests span several domains within **econometrics**. I am particularly passionate about **financial econometrics**, where I develop and apply innovative econometric models to analyze and predict economic and financial trends. One of my key areas of focus is **modeling financial markets** through **time series analysis**, **volatility modeling**, and **risk management**. 
+
+Additionally, I have a broad academic interest in **financial risk management**. I have conducted foundational research for the **regulatory early warning systems** in financial derivatives markets, specifically for the **Beijing Financial Futures Exchange**. This research focused on developing models and frameworks to identify potential risks in financial markets and improve the resilience of trading systems. Since 2021, I have also been working on developing the **Competitiveness Evaluation System for Financial Technology in Small and Medium Banks**, which includes the creation of evaluation indicators based on strategic implementation, organizational structure, IT governance, risk management, and technological services. This work involves the collection and analysis of data from 541 Chinese banks, using **machine learning** and **text analysis** techniques to build multi-dimensional assessments of financial technology.
+
+In **August 2024**, I successfully completed the **Digital Financial Competitiveness Evaluation Index for Small and Medium Commercial Banks**, which was presented at the **China Financial Forum** on **December 14, 2024**. Experts have highlighted that this index aligns closely with China’s innovation-driven development strategy and offers valuable guidance to small and medium-sized banks for market positioning and development strategy.
+
+## Policy Engagement
+
+I also actively engage in **policy debates and advisory contributions**. In 2024, I participated in the submission of written evidence on UK trade and net zero emissions policy to the **UK Parliament’s Energy Security and Net Zero Committee**. This submission reflects my commitment to informing policy discussions with rigorous empirical analysis and evidence-based recommendations.
+
+See the full written submission here:  
+🔗 https://committees.parliament.uk/writtenevidence/129004/pdf/
+
+## Academic Contributions
+
+I have made significant contributions to econometric methodology, particularly in **time series analysis** and **robust estimation** of long-run variances. I developed the **“Adjusted-Range Self-Normalization”** (ASN) framework, which provides a robust alternative to traditional methods of estimating long-run variances under conditions such as strong dependence and heavy tails. This framework has been cited in top econometrics journals and has been applied to various fields, including environmental management and financial econometrics.
+
+In addition to methodological contributions, I have authored several textbooks. These include:
+
+1. **“Financial Econometrics: Theory, Cases, and R”** (First Author), in collaboration with **Professor Hong Yongmiao** and **Professor Oliver Linton**, which covers regression analysis, time series modeling, and risk management, with a focus on R programming and financial data analysis. The book provides practical applications with running code and exercises, using publicly available data sources. It is a comprehensive resource designed for graduate students, senior undergraduates, and professionals involved in quantitative analysis.
+
+2. **“FinTech”** (First Author), in collaboration with **Professor Hong Yongmiao**, **Professor Wang Shouyang**, and **Dr. Yang Youwei**. This textbook provides a systematic overview of the evolution of financial technology in China, covering key technologies such as **blockchain**, **big data**, **cloud computing**, and **AI**. It also delves into practical applications, such as **digital payments**, **digital currencies**, and **regulatory technology**. The book is designed for university students in economics, finance, and related disciplines, as well as professionals in financial institutions and regulatory bodies.
+
+3. **“Econometrics and Time Series Methods: Theory, Applications, and R Implementation”** (First Author), in collaboration with **Professor Hong Yongmiao** and **Professor Oliver Linton**. This English-language textbook covers a range of topics, including regression models, univariate and multivariate time series, volatility modeling, non-parametric methods, machine learning, and applications to real financial and macroeconomic data. It includes **R code** and extensive examples, designed for both classroom teaching and self-study. The textbook also has an accompanying **[website](https://quantinar.com/course/1033/econometrics-and-time-series-methods-theory-applications-and-r-implementation)** and **[GitHub repository](https://github.com/QuantLet/Econometrics_R)** for additional resources, making it accessible for a global audience of students and researchers.
+
+
+
+## Broader Interests
+
+Beyond my primary research, I am deeply engaged in **data science education** and **policy research**, particularly in **financial systems**. I am interested in the role of **artificial intelligence** and **machine learning** in shaping the future of **financial markets** and **economic policy**. I believe that interdisciplinary approaches, combining **economics**, **statistics**, and **data science**, are essential for solving the global challenges we face, from economic crises to environmental sustainability.
+
+I regularly collaborate with international researchers to improve **policy decision-making** and **financial decision-making**. Through my work, I aim to contribute to the development of tools that can better inform public policies, foster innovation in financial markets, and enhance global economic resilience.
+
