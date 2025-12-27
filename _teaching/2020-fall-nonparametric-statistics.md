@@ -1,7 +1,7 @@
 ---
 title: "Nonparametric Statistics"
 collection: teaching
-type: "Undergraduate course"
+type: "Postgraduate course"
 permalink: /teaching/2020-fall-nonparametric-statistics
 venue: "University of Chinese Academy of Sciences, Department of Statistics and Data Science"
 date: 2020-09-01
