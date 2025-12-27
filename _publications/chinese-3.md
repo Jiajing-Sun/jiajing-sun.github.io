@@ -1,16 +1,18 @@
 ---
-title: "带协变量的计数数据自回归模型的模型平均" (Model Averaging of Integer-valued Autoregressive Model with Covariates)
+title: "带协变量的计数数据自回归模型的模型平均 (Model Averaging of Integer-valued Autoregressive Model with Covariates)"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-inar-model-averaging-with-covariates
-excerpt: '本论文提出了一种带协变量的计数数据自回归模型的模型平均方法，旨在提升模型的预测准确性和鲁棒性。(This paper introduces a model averaging method for INAR (Integer-Valued Autoregressive) models with covariates, aimed at improving the predictive accuracy and robustness of the model.)' 
-date: 2025-11-27
+excerpt: '本论文提出了一种带协变量的计数数据自回归模型的模型平均方法，旨在提升模型的预测准确性和鲁棒性。
+(This paper introduces a model averaging method for INAR (Integer-Valued Autoregressive) models with covariates, aimed at improving the predictive accuracy and robustness of the model.)' 
+date: 2025-01-01
 venue: '计量经济学报 (China Journal of Econometrics)' 
 slidesurl: ''
 paperurl: ''
 bibtexurl: ''
-citation: 'Sun, J. Lin, Z. & McCabe, B. (2025). "Model Averaging of Integer-valued Autoregressive Model with Covariates." <i>计量经济学报 (China Journal of Econometrics)</i>, forthcoming.'
+citation: 'Sun, J., Lin, Z., & McCabe, B. (2025). "Model Averaging of Integer-valued Autoregressive Model with Covariates." <i>计量经济学报 (China Journal of Econometrics)</i>, forthcoming.'
 ---
+
 ## Abstract
 
 **中文摘要**：  
