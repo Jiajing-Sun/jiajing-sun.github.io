@@ -8,7 +8,8 @@ volume: "36"
 pages: "518-525"
 doi: "https://doi.org/10.1016/j.eneco.2012.10.009"
 tags: ["Energy Economics", "Futures Price", "Diffusion Model"]
-permalink: /publications/paper-11/
+permalink: /publications/paper-12/
+collection: publications  
 ---
 
 ## Abstract
