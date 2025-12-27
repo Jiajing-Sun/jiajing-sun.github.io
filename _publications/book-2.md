@@ -1,16 +1,18 @@
 ---
-title: "金融科技学"
+title: "金融科技学 (FinTech)"
 collection: publications
 category: books
 permalink: /publication/publications/book-2
-excerpt: '本书系统介绍了中国金融科技的发展与应用，涵盖了区块链、大数据、云计算、人工智能等核心技术，以及其在金融服务中的应用。'
+excerpt: 'This book systematically introduces the development and application of financial technology in China, covering core technologies such as blockchain, big data, cloud computing, and artificial intelligence, as well as their applications in financial services'
 date: 2026-01-01
-venue: '高等教育出版社（教育部下属）'
+venue: '高等教育出版社（Higher Education Press）'
 slidesurl: ''
 paperurl: ''
 bibtexurl: ''
-citation: '孙佳婧（第一作者，与洪永淼、汪寿阳、杨佑玮合作）《金融科技学》，高等教育出版社（教育部下属），2026年。'
+citation: 'Sun, J., Hong, Y., Wang, S., & Yang, Y. (forthcoming 2026). 金融科技学 (FinTech). Higher Education Press).'
 ---
+ 
+
 ## Abstract
 
 **中文摘要**:  
