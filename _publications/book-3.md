@@ -6,7 +6,7 @@ permalink: /publication/publications/book-3
 excerpt: 'A comprehensive English-language textbook on econometrics and time series methods with full R implementation, supported by open-source slides, a course website, and GitHub code.'
 date: 2026-01-01
 venue: "Springer"
-paperurl: 'https://academicpages.github.io/files/Econometrics_R.pdf'
+slidesurl: 'https://academicpages.github.io/files/Econometrics_R.pdf'
 paperurl: ""
 bibtexurl: "https://github.com/QuantLet/Econometrics_R"
 citation: 'Hong, Y., Linton, O., & Sun, J. (2024). "Econometrics and Time Series Methods: Theory, Applications, and R Implementation." Springer.'
