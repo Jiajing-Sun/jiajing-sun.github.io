@@ -9,6 +9,7 @@ pages: "110873"
 doi: "https://doi.org/10.1016/j.econlet.2022.110873"
 tags: ["Confidence Intervals", "Censored Data", "Econometrics"]
 permalink: /publications/paper-6/
+collection: publications  
 ---
 
 ## Abstract
