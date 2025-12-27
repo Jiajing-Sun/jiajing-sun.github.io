@@ -3,9 +3,8 @@ title: "带协变量的计数数据自回归模型的模型平均" (Model Averag
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-inar-model-averaging-with-covariates
-excerpt: '本论文提出了一种带协变量的计数数据自回归模型的模型平均方法，旨在提升模型的预测准确性和鲁棒性。' 
-(This paper introduces a model averaging method for INAR (Integer-Valued Autoregressive) models with covariates, aimed at improving the predictive accuracy and robustness of the model.)
-date: 2025-01-01
+excerpt: '本论文提出了一种带协变量的计数数据自回归模型的模型平均方法，旨在提升模型的预测准确性和鲁棒性。(This paper introduces a model averaging method for INAR (Integer-Valued Autoregressive) models with covariates, aimed at improving the predictive accuracy and robustness of the model.)' 
+date: 2025-11-27
 venue: '计量经济学报' (Econometrics Journal)
 slidesurl: ''
 paperurl: ''
