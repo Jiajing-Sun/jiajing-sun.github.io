@@ -5,6 +5,7 @@ authors: "Hong, Y., Linton, O., & Sun, J."
 publication_date: "2024-01-01"
 tags: ["Econometrics", "R", "Textbook"]
 permalink: publications/book-3/
+collection: publications  
 ---
 
 ## Abstract
