@@ -11,6 +11,7 @@ location: "London, UK"
 doi: "https://link.springer.com/chapter/10.1057/9781137464699_3"
 tags: ["Chinese Stock Market", "Bear Markets", "Policy"]
 permalink: /book-chapter-1/
+collection: publications  
 ---
 
 ## Abstract
