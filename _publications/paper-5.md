@@ -6,8 +6,7 @@ permalink: /publication/2022-01-01-adjusted-range-self-normalized-confidence-int
 excerpt: 'This paper proposes a self-normalized method for constructing confidence intervals for censored dependent data, improving the robustness and accuracy of inference.'
 date: 2022-01-01
 venue: 'Economics Letters'
-slidesurl: ''
-paperurl: ''
+paperurl: 'https://doi.org/10.1016/j.econlet.2022.110394'
 bibtexurl: 'https://academicpages.github.io/files/bibtex5.bib'
 citation: 'Sun, J., Hong, Y., Linton, O., & Zhao, X. (2022). "Adjusted-range self-normalized confidence interval construction for censored dependent data." <i>Economics Letters</i>, 110873.'
 ---
