@@ -9,7 +9,8 @@ issue: "6"
 pages: "1079-1093"
 doi: "https://doi.org/10.1080/10543406.2011.611082"
 tags: ["Bootstrap", "Statistical Tests", "Biopharmaceutical Statistics"]
-permalink: /publications/paper-12/
+permalink: /publications/paper-13/
+collection: publications  
 ---
 
 ## Abstract
