@@ -8,7 +8,7 @@ date: 2022-01-01
 venue: 'Economics Letters'
 slidesurl: ''
 paperurl: ''
-bibtexurl: ''
+bibtexurl: 'https://academicpages.github.io/files/bibtex5.bib'
 citation: 'Sun, J., Hong, Y., Linton, O., & Zhao, X. (2022). "Adjusted-range self-normalized confidence interval construction for censored dependent data." <i>Economics Letters</i>, 110873.'
 ---
 
