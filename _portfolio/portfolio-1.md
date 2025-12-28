@@ -1,7 +1,25 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "evelopment of the Digital Financial Competitiveness Evaluation Index for Small and Medium Commercial Banks"
+excerpt: "Development of a comprehensive Digital Financial Competitiveness Evaluation Index for small and medium-sized banks in China, using machine learning and text analysis techniques. The index was presented at the China Financial Forum in December 2024, contributing to policy discussions and guiding the strategic development of financial technology in these banks."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This **project** involves the **development of the Digital Financial Competitiveness Evaluation Index for Small and Medium Commercial Banks**, completed in **August 2024** after four years of extensive research and data analysis. 
+
+The project is part of a larger initiative to assess the **financial technology competitiveness** of **small and medium-sized banks** in China. The evaluation index was developed by designing a comprehensive set of indicators based on five key dimensions: 
+- **Financial technology strategy implementation**
+- **Organizational structure**
+- **Information technology governance and risk**
+- **Technology operations and services**
+
+We collected high-quality data from the **annual reports** of **541 Chinese banks** from **2015 to 2023**, including information on **organizational structure**, **financial data**, **patents**, **violations**, and **software copyrights**. We used **machine learning** and **text analysis** techniques to build a multi-dimensional model to assess the competitiveness of financial technology in these banks.
+
+On **December 14, 2024**, I had the honor of presenting this evaluation index at the **China Financial Forum**. Experts have noted that the index is highly aligned with China’s **innovation-driven development strategy** and serves as a valuable tool for guiding small and medium-sized banks in their **market positioning** and **development strategies**.
+
+### Key Contributions:
+- **Development of a comprehensive evaluation model** for financial technology competitiveness.
+- **Data collection and analysis** from **541 Chinese banks**.
+- **Presenting the evaluation index** at a leading financial forum, contributing to **policy discussion** and **industry strategy**.
+
+**Impact**:
+The **evaluation index** is expected to enhance the **influence** of the **School of Economics and Management** at **UCAS** in the **financial technology** sector, supporting the school’s mission to "create knowledge, contribute ideas, cultivate leaders, and influence society."
