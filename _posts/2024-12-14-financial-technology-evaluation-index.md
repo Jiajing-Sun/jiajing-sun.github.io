@@ -22,7 +22,7 @@ We collected high-quality data from the **annual reports** of **541 Chinese bank
 
 On **December 14, 2024**, I had the honor of presenting this evaluation index at the **China Financial Forum**. Experts have noted that the index is highly aligned with China’s **innovation-driven development strategy** and serves as a valuable tool for guiding small and medium-sized banks in their **market positioning** and **development strategies**.
 
-![China Financial Forum Presentation](https://jiajing-sun.github.io/images/jiajing-finance-forum.png)
+![Jiajing Sun presenting at the China Financial Forum](https://jiajing-sun.github.io/images/jiajing-finance-forum.png)
 
 ### Key Contributions:
 - **Development of a comprehensive evaluation model** for financial technology competitiveness.
