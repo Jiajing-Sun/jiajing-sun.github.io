@@ -1,5 +1,5 @@
 ---
-title: "“Statistical Methods in Economics"
+title: "Statistical Methods in Economics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-econometrics-jbji
