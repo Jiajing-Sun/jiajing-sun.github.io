@@ -37,13 +37,4 @@ I would like to thank **Professor Johansson** for his insightful presentation, a
 **Impact**:
 This seminar contributed to **cross-disciplinary knowledge exchange** and helped to expand the **understanding of causal inference methods** in the context of healthcare and **medical data analysis**.
 
----
 
-### **Steps to Implement**:
-1. **Create a markdown file** named `2025-11-17-comparative-effectiveness-seminar.md` in the **`_posts/`** folder.
-2. **Commit and push** the changes to GitHub:
-
-   ```bash
-   git add _posts/2025-11-17-comparative-effectiveness-seminar.md
-   git commit -m "Added blog post about Per Johansson seminar on Comparative Effectiveness Evaluation"
-   git push origin master
