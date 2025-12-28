@@ -22,4 +22,5 @@ Extensive simulations (VARs with homoskedastic/heteroskedastic errors and a PAR(
 
 In the appendix, we show that **RSMS** remains **power-stable** and continues to reduce ARLs even when the training sample is contaminated—a realistic setting because **type II errors** and **rolling re-estimation** can push shifted observations into the training window. An empirical study of functional **USD/GBP** data around the **2016 EU referendum** and **COVID-19** shows that **RSMS** flags major breaks promptly, often earlier than alternatives and frequently with the shortest ARL.
 
+### **R Code and Full Paper**:
 You can access the **R code** at [Zenodo](https://doi.org/10.5281/zenodo.17460569), and the **full paper** is available at [Manuscript](https://jiajing-sun.github.io/files/ASN_sequential.pdf).
