@@ -6,9 +6,6 @@ permalink: /publication/2022-01-01-adjusted-sample-range-structural-breaks
 excerpt: '本论文提出了一种基于调整样本值域的自正则方法，用于检验时间序列中的结构性变化。该方法在强依赖性和重尾分布下表现良好，能够提升结构性变化检验的准确性。'
 date: 2022-01-01
 venue: '统计研究 (Statistical Research)'
-slidesurl: ''
-paperurl: ''
-bibtexurl: ''
 citation: 'Hong, Y., Sun, J., McCabe, B., & Wang, S. (2022). "An adjusted-range based self-normalized statistic for testing structural breaks." <i>统计研究</i>, 39(04): 122-133.'
 ---
 
