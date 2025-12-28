@@ -1,12 +1,11 @@
 ---
-permalink: /guide/
-title: "About this website"
+permalink: /markdown/
+title: "Markdown"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
-
 
 This is my academic website, where I strive to provide as much academic material as possible, including slides for my books, **handouts** for my **Introduction to Data Science**,  **drafts** of my working papers, and more. These materials are shared to support learning and encourage academic discussions.
 
