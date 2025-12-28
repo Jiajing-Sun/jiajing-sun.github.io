@@ -2,7 +2,7 @@
 title: "Introduction to Data Analysis"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024-spring-introduction-to-data-analysis
+permalink: /teaching/2024-spring-introduction-to-data-analysis-jbji
 venue: "Jinan-Birmingham Joint Institute (JBJI), Jinan University & University of Birmingham"
 date: 2024-03-01
 location: "Guangzhou, China"
