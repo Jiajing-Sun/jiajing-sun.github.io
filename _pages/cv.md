@@ -55,7 +55,7 @@ Work experience
   - Assisted with **AMBA accreditation** and joint international collaborations.
 
   
-## Skills
+Skills
 ======
 * **Statistical Analysis**: R, Python, Stata, MATLAB
 * **Econometrics**: Time Series Analysis, Panel Data Models, Volatility Modeling
