@@ -1,5 +1,5 @@
 ---
-title: "Econometrics"
+title: "“Statistical Methods in Economics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-econometrics-jbji
@@ -8,8 +8,14 @@ date: 2023-09-01
 location: "Guangzhou, China"
 ---
 
-This **postgraduate econometrics course** was taught as part of the **Jinan-Birmingham Joint Institute (JBJI)**. The course focused on the key methods in **econometric modeling**, including **regression analysis**, **time series analysis**, and **panel data**. Students were taught how to apply econometric techniques to real-world data. 
+This **undergraduate econometrics course** covered key methods in **regression analysis**, **time series modeling**, and **panel data analysis**. The course aimed to provide students with both the theoretical foundations and practical skills needed to analyze economic and financial data.
 
-As the **lead instructor**, I provided practical examples and guided students through hands-on exercises using **R programming** to analyze complex datasets.
+I taught students how to apply econometric techniques using **R programming**, including creating and interpreting **time series models** and **volatility forecasting**. I wrote dedicated **R handouts** and **exercises** to reinforce key concepts and provide practical experience with real-world datasets.
 
+### Key Topics Covered:
+- **Regression Analysis**: Linear and non-linear models, including **ordinary least squares (OLS)** estimation.
+- **Time Series Analysis**: Introduction to **stationarity**, **autocorrelation**, and **unit root tests**. 
+- **Volatility Models**: **ARCH/GARCH** models for predicting financial market volatility.
+- **Panel Data**: Estimating models with both cross-sectional and time-series data.
+  
 **Hours**: 20 hours
