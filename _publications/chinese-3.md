@@ -7,9 +7,6 @@ excerpt: '本论文提出了一种带协变量的计数数据自回归模型的�
 (This paper introduces a model averaging method for INAR (Integer-Valued Autoregressive) models with covariates, aimed at improving the predictive accuracy and robustness of the model.)' 
 date: 2025-01-01
 venue: '计量经济学报 (China Journal of Econometrics)' 
-slidesurl: ''
-paperurl: ''
-bibtexurl: ''
 citation: 'Sun, J., Lin, Z., & McCabe, B. (2025). "Model Averaging of Integer-valued Autoregressive Model with Covariates." <i>计量经济学报 (China Journal of Econometrics)</i>, forthcoming.'
 ---
 
