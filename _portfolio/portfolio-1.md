@@ -4,7 +4,7 @@ excerpt: "This paper proposes an adjusted-range-based self-normalized sequential
 collection: portfolio
 ---
 
-This working paper connects two central themes in economic statistics: **self-normalization** and **sequential change-point detection**. **Self-normalization** provides tuning-free inference for dependent, heteroskedastic time series by avoiding long-run variance (LRV) estimation and its fragile bandwidth/kernel choices, while delivering pivotal limits under weak conditions. 
+This **working paper** connects two central themes in economic statistics: **self-normalization** and **sequential change-point detection**. **Self-normalization** provides tuning-free inference for dependent, heteroskedastic time series by avoiding long-run variance (LRV) estimation and its fragile bandwidth/kernel choices, while delivering pivotal limits under weak conditions. 
 
 An **adjusted-range-based** self-normalizer refines classical (Shao's) self-normalization by using the **partial-sum range** rather than quadratic variation; it is less sensitive to mild contamination in the training window and grows more slowly under level shifts, thereby preserving monotonic power and robustness without extra tuning. 
 
