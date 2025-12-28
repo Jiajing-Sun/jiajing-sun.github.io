@@ -1,5 +1,5 @@
 ---
-title: "evelopment of the Digital Financial Competitiveness Evaluation Index for Small and Medium Commercial Banks"
+title: "Development of the Digital Financial Competitiveness Evaluation Index for Small and Medium Commercial Banks"
 excerpt: "Development of a comprehensive Digital Financial Competitiveness Evaluation Index for small and medium-sized banks in China, using machine learning and text analysis techniques. The index was presented at the China Financial Forum in December 2024, contributing to policy discussions and guiding the strategic development of financial technology in these banks.<br/><img src='/images/jiajing-finance-forum.png'>"
 collection: portfolio
 ---
