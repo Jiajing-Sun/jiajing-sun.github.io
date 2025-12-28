@@ -8,8 +8,35 @@ date: 2024-03-01
 location: "Guangzhou, China"
 ---
 
-This **Introduction to Data Analysis module** was taught in the **Spring 2024 semester** at the **Jinan-Birmingham Joint Institute (JBJI)**, as part of the **Jinan-Birmingham Joint Institute (JBJI)** collaboration. The course introduced students to the fundamentals of **data analysis**, covering topics such as **data cleaning**, **exploratory data analysis (EDA)**, and **visualization techniques**. The course also included **hands-on exercises** with **R programming** to help students build practical skills for working with real-world datasets.
 
-This is a new module i developed the teaching materials from stretch. 
+This **undergraduate module** introduces students to the fundamentals of **data analysis** using **R programming**. The course covers essential topics such as **data structures**, **statistical analysis**, **probability distributions**, and **data visualization**. As the **lead instructor**, I wrote a **dedicated handout** for the course, which covers key concepts and provides practical exercises for students to work with real-world datasets.
 
-**Hours**: 40 hours
+### Course Content:
+1. **R Programming Fundamentals**:
+   - Basic **mathematical operations** and **constants in R**.
+   - Working with **loops**, **data structures**, and **functions** in R.
+
+2. **Data Manipulation and Analysis**:
+   - **Subsetting**, **filtering**, and **aggregating** data in R.
+   - Preliminary **data analysis** and introduction to **statistical techniques**.
+
+3. **Data Visualization in R**:
+   - Basic **line plots**, **histograms**, and **scatter plots**.
+   - Advanced visualization using the **ggplot2** package.
+
+4. **Probability Distributions**:
+   - **Discrete** and **continuous distributions**, including **Binomial**, **Poisson**, **Normal**, and **Exponential distributions**.
+   - Introduction to **Monte Carlo simulations**.
+
+5. **Conditional Probability and Independence**:
+   - Concepts of **conditional probability**, **Bayes' theorem**, and **independence**.
+
+6. **Limit Theorems**:
+   - Introduction to the **Law of Large Numbers** and **Central Limit Theorem**.
+
+### Teaching Methodology:
+The course is taught using **bilingual instruction**, with **English** slides and materials. Students learn both the **theoretical concepts** and the **practical implementation** of data analysis techniques in **R programming**.
+
+**Hours**: 40 hours  
+**Handouts**: [DPS-R Handout](https://jiajing-sun.github.io/files/DPS-R-handout.pdf)
+
