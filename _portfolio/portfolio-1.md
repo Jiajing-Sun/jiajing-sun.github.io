@@ -1,25 +1,16 @@
 ---
-title: "Development of the Digital Financial Competitiveness Evaluation Index for Small and Medium Commercial Banks"
-excerpt: "Development of a comprehensive Digital Financial Competitiveness Evaluation Index for small and medium-sized banks in China, using machine learning and text analysis techniques. The index was presented at the China Financial Forum in December 2024, contributing to policy discussions and guiding the strategic development of financial technology in these banks.<br/><img src='/images/jiajing-finance-forum.png'>"
+title: "Online Monitoring of Structural Change with Adjusted-Range Self-Normalization"
+excerpt: "This paper proposes an **adjusted-range-based self-normalized sequential monitoring scheme (RSMS)** for online change-point detection, offering significant improvements in performance, especially in the presence of structural shifts. The method avoids tuning parameter choices, making it more robust and efficient for high-frequency data."
 collection: portfolio
 ---
 
-This **project** involves the **development of the Digital Financial Competitiveness Evaluation Index for Small and Medium Commercial Banks**, completed in **August 2024** after four years of extensive research and data analysis. 
-
-The project is part of a larger initiative to assess the **financial technology competitiveness** of **small and medium-sized banks** in China. The evaluation index was developed by designing a comprehensive set of indicators based on five key dimensions: 
-- **Financial technology strategy implementation**
-- **Organizational structure**
-- **Information technology governance and risk**
-- **Technology operations and services**
-
-We collected high-quality data from the **annual reports** of **541 Chinese banks** from **2015 to 2023**, including information on **organizational structure**, **financial data**, **patents**, **violations**, and **software copyrights**. We used **machine learning** and **text analysis** techniques to build a multi-dimensional model to assess the competitiveness of financial technology in these banks.
-
-On **December 14, 2024**, I had the honor of presenting this evaluation index at the **China Financial Forum**. Experts have noted that the index is highly aligned with China’s **innovation-driven development strategy** and serves as a valuable tool for guiding small and medium-sized banks in their **market positioning** and **development strategies**.
+This **working paper** introduces a **novel sequential monitoring approach** for detecting structural changes in time series using **adjusted-range-based self-normalization**. The method addresses the limitations of existing techniques, such as CUSUM procedures that require long-run variance estimation, by providing a **tuning-free solution**.
 
 ### Key Contributions:
-- **Development of a comprehensive evaluation model** for financial technology competitiveness.
-- **Data collection and analysis** from **541 Chinese banks**.
-- **Presenting the evaluation index** at a leading financial forum, contributing to **policy discussion** and **industry strategy**.
+- **Adjusted-range self-normalization** enhances sensitivity to structural changes, particularly under large shifts in the data.
+- Developed **simulation-based critical values** that ensure robustness in detecting changes, even when the training sample is mildly contaminated by undetected breaks.
+- **Empirical analysis** using USD/GBP exchange rate data from the 2016 UK referendum and the 2020 COVID-19 crisis shows that the proposed method delivers timely alerts and outperforms standard methods (e.g., SSMS and CSMS).
 
-**Impact**:
-The **evaluation index** is expected to enhance the **influence** of the **School of Economics and Management** at **UCAS** in the **financial technology** sector, supporting the school’s mission to "create knowledge, contribute ideas, cultivate leaders, and influence society."
+**Impact**:  
+This paper significantly contributes to the **field of time series analysis**, providing a practical and efficient tool for **real-time monitoring** of financial and economic data. The **RSMS** method is expected to be widely applicable in areas such as **market surveillance**, **risk management**, and **financial forecasting**.
+
