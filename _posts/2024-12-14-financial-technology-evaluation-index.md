@@ -28,6 +28,3 @@ On **December 14, 2024**, I had the honor of presenting this evaluation index at
 - **Development of a comprehensive evaluation model** for financial technology competitiveness.
 - **Data collection and analysis** from **541 Chinese banks**.
 - **Presenting the evaluation index** at a leading financial forum, contributing to **policy discussion** and **industry strategy**.
-
-**Impact**:
-The **evaluation index** is expected to enhance the **influence** of the **School of Economics and Management** at **UCAS** in the **financial technology** sector, supporting the school’s mission to "create knowledge, contribute ideas, cultivate leaders, and influence society."
