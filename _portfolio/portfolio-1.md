@@ -1,6 +1,6 @@
 ---
 title: "Online Monitoring of Structural Change with Adjusted-Range Self-Normalization"
-excerpt: "This paper proposes an adjusted-range-based self-normalized sequential monitoring scheme (RSMS) for online change-point detection, offering significant improvements in performance, especially in the presence of structural shifts. The method avoids tuning parameter choices, making it more robust and efficient for high-frequency data."
+excerpt: "This paper proposes an **adjusted-range-based self-normalized sequential monitoring scheme (RSMS)** for online change-point detection, offering significant improvements in performance, especially in the presence of structural shifts. The method avoids tuning parameter choices, making it more robust and efficient for high-frequency data."
 collection: portfolio
 ---
 
