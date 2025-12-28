@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2018-fall-financial-statistics-and-econometrics
 venue: "University of Chinese Academy of Sciences, Department of Economics and Management"
-date: 2018-09-01
+date: 2015-09-01
 location: "Beijing, China"
 ---
 
