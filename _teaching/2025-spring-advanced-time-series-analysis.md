@@ -12,6 +12,9 @@ This course focuses on advanced **time series analysis** techniques, including *
 
 The course aims to integrate **theory**, **methodology**, **empirical applications**, and **computation**. The teaching ecosystem also includes open-source **lecture slides**, a **course website** ([Course Website](https://quantinar.com/course/1033/econometrics-and-time-series-methods-theory-applications-and-r-implementation)), and **GitHub repository** for **R code** ([GitHub Repository](https://github.com/QuantLet/Econometrics_R)), supporting students' learning and research.
 
-[<img src="/images/q2.png" alt="Quantinar" height="5">](https://quantinar.com/course/1033/econometrics-and-time-series-methods-theory-applications-and-r-implementation)
-&nbsp;&nbsp;
-[<img src="/images/quantlet.png" alt="QuantLet" height="5">](https://github.com/QuantLet/Econometrics_R)  
+<a href="https://quantinar.com/course/1033/econometrics-and-time-series-methods-theory-applications-and-r-implementation">
+  <img src="/images/q2.png" alt="Quantinar" height="20px">
+</a>&nbsp;&nbsp;
+<a href="https://github.com/QuantLet/Econometrics_R">
+  <img src="/images/quantlet.png" alt="QuantLet" height="20px">
+</a>
