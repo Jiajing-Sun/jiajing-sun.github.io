@@ -9,15 +9,14 @@ author_profile: true
 
 I am an **Associate Professor** and the **Deputy Director** of the **Department of Statistics and Data Science** at the **School of Economics and Management**, **University of Chinese Academy of Sciences (UCAS)**, located in Beijing, China. My primary research focuses on **econometrics**, **financial econometrics**, and the **intersection of data science and economics**.  
 
-I am also a **Chartered Financial Analyst (CFA)** and a **Fellow of the Institute of Mathematics and its Applications (FIMA)**. These professional qualifications reflect my strong academic background and practical experience in **finance**, **mathematics**, and **econometrics**.
+I am also a **Chartered Financial Analyst (CFA)** and a **Fellow of the Institute of Mathematics and its Applications (FIMA)**.  
 
-In addition to my core research areas, I have a broad academic interest in **environmental management** and **environmental economics**. I have worked on projects related to the economic implications of **environmental policies** and **climate change**, exploring how econometric methods can be applied to **sustainable development**.
  
 ## Research Interests 
 
 My research spans several domains within **econometrics**, with a particular passion for **financial econometrics**. I develop and apply innovative econometric models to analyze and predict economic and financial trends. One of my key areas of focus is **modeling financial markets**, particularly through **time series analysis**, **volatility modeling**, and **risk management**.
 
-In addition, I have a broad academic interest in **financial risk management**. I have conducted foundational research for **regulatory early warning systems** in financial derivatives markets, specifically for the **China Financial Futures Exchange (CFFEX)**. This research focused on developing models and frameworks to identify potential risks in financial markets and improve the resilience of trading systems. Since 2021, I have also been developing the **Competitiveness Evaluation System for Financial Technology in Small and Medium Banks**, which includes creating evaluation indicators based on strategic implementation, organizational structure, IT governance, risk management, and technological services. This work involves the collection and analysis of data from 541 Chinese banks, using **machine learning** and **text analysis** techniques to build multi-dimensional assessments of financial technology.
+I have a broad academic interest in **financial risk management**. I have conducted foundational research for **regulatory early warning systems** in financial derivatives markets, specifically for the **China Financial Futures Exchange (CFFEX)**. This research focused on developing models and frameworks to identify potential risks in financial markets and improve the resilience of trading systems. Since 2021, I have also been developing the **Competitiveness Evaluation System for Financial Technology in Small and Medium Banks**, which includes creating evaluation indicators based on strategic implementation, organizational structure, IT governance, risk management, and technological services. This work involves the collection and analysis of data from 541 Chinese banks, using **machine learning** and **text analysis** techniques to build multi-dimensional assessments of financial technology.
 
 In **August 2024**, I successfully completed the **Digital Financial Competitiveness Evaluation Index for Small and Medium Commercial Banks**, which was presented at the **China Financial Forum** on **December 14, 2024**. Experts have highlighted that this index aligns closely with China’s innovation-driven development strategy and provides valuable guidance to small and medium-sized banks for market positioning and development strategy.
 
@@ -39,10 +38,15 @@ In addition to these methodological contributions, I have authored several textb
 
 These include the **course website** and an open **GitHub repository** with **R code**, **slides**, and **teaching materials**, making the book accessible to a global audience of students and researchers.
 
+## Editorial Service
+
+- **Associate Editor**, *Review of Mathematical Economics*. Additional information is available on the journal’s official webpage: https://intlpress.com/journals/journalList?id=1979202226827096065.
+
+- **Associate Editor**, *Digital Finance*. Additional information is available on the journal’s official webpage: https://link.springer.com/journal/42521.
 
 ## Broader Interests
 
-Beyond my primary research, I am deeply engaged in **data science education** and **policy research**, particularly in **financial systems**. I am also passionate about **environmental management** and **environmental economics**. I have published in the **Journal of Environmental Management** and, in 2024, I contributed to the submission of written evidence on **UK trade** and **net-zero emissions** policy to the **UK Parliament’s Energy Security and Net Zero Committee**. This submission reflects my commitment to informing policy discussions with rigorous empirical analysis and evidence-based recommendations.
+Beyond my primary research, I am deeply engaged in **data science education** and **policy research**. I am also passionate about **environmental management** and **environmental economics**, and regularly collaborate with international researchers to improve **policy decision-making**. I have published in the **Journal of Environmental Management** and, in 2024, I contributed to the submission of written evidence on **UK trade** and **net-zero emissions** policy to the **UK Parliament’s Energy Security and Net Zero Committee**. This submission reflects my commitment to informing policy discussions with rigorous empirical analysis and evidence-based recommendations.
 
 You can read the full written submission here:  
 🔗 **[UK Parliament Written Submission](https://committees.parliament.uk/writtenevidence/129004/pdf/)**
