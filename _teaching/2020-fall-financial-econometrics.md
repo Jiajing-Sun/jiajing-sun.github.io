@@ -3,7 +3,7 @@ title: "Financial Econometrics"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2020-fall-financial-econometrics
-venue: "University of Chinese Academy of Sciences, Department of Economics and Management"
+venue: "University of Chinese Academy of Sciences, School of Economics and Management"
 date: 2020-09-01
 location: "Beijing, China"
 ---
