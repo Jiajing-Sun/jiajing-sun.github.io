@@ -10,6 +10,8 @@ bibtexurl: "https://github.com/QuantLet/Econometrics_R"
 citation: 'Hong, Y., Linton, O., & Sun, J. (2026 forthcoming). "Econometrics and Time Series Methods: Theory, Applications, and R Implementation." Springer.'
 ---
 
+## Abstract
+
 **中文摘要**：  
 《Econometrics and Time Series Methods: Theory, Applications, and R Implementation》系统涵盖了回归模型、单变量与多变量时间序列、波动率建模、非/半参数方法、HAR 推断、自回归滤波与状态空间模型、非平稳过程、连续时间金融以及机器学习等内容，并在真实金融和宏观经济数据上给出了大量案例分析与 R 实现，实现“理论—方法—实证—计算”的一体化培养目标。  
 
