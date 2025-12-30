@@ -39,9 +39,13 @@ In addition to these methodological contributions, I have authored several textb
 
 ## Editorial Service
 
-- **Associate Editor**, *Review of Mathematical Economics*. Additional information is available on the **[journal’s official webpage](https://intlpress.com/journals/journalList?id=1979202226827096065)**
-
-- **Associate Editor**, *Digital Finance*. Additional information is available on the **[journal’s official webpage](https://link.springer.com/journal/42521)**
+- **Associate Editor**, *Review of Mathematical Economics*  
+  (International Press of Boston)  
+  [Journal Homepage](https://intlpress.com/journals/journalList?id=1979202226827096065)
+ 
+- **Associate Editor**, *Digital Finance*  
+  (Springer Nature)  
+  [Journal Homepage](https://link.springer.com/journal/42521)
 
 ## Broader Interests
 
