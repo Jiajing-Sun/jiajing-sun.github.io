@@ -3,7 +3,7 @@ title: "Financial Statistics and Econometrics"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2018-fall-financial-statistics-and-econometrics
-venue: "University of Chinese Academy of Sciences, Department of Economics and Management"
+venue: "University of Chinese Academy of Sciences, School of Economics and Management"
 date: 2017-09-01
 location: "Beijing, China"
 ---
