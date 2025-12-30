@@ -7,7 +7,7 @@ excerpt: 'This paper examines the relationship between innovation, carbon emissi
 date: 2022-01-01
 venue: 'Journal of Environmental Management'
 paperurl: 'https://doi.org/10.1016/j.jenvman.2022.114465'
-bibtexurl: 'https://academicpages.github.io/files/bibtex7.bib'
+bibtexurl: 'https://jiajing-sun.github.io/files/bibtex7.bib'
 citation: 'Jiang, W., Cole, M., Sun, J., & Wang, S. (2022). "Innovation, carbon emissions, and the pollution haven hypothesis: Climate capitalism and global reinterpretations." <i>Journal of Environmental Management</i>, 307, 114465.'
 ---
 ## Abstract
