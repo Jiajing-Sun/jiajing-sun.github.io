@@ -31,7 +31,14 @@ In addition to these methodological contributions, I have authored several textb
 
 2. **“FinTech”** (First Author), in collaboration with **Professor Yongmiao Hong**, **Professor Shouyang Wang**, and **Dr. Youwei Yang **. This textbook provides a systematic overview of **financial technology (FinTech)** development and applications in China, covering core technologies such as **blockchain**, **big data**, **cloud computing**, and **AI**. It also explores practical applications in **digital payments**, **digital currencies**, and **regulatory technology**. The book is designed for university students in economics, finance, and related disciplines, as well as professionals in financial institutions and regulatory bodies.
 
-3. **“Econometrics and Time Series Methods: Theory, Applications, and R Implementation”** (First Author), in collaboration with **Professor Yongmiao Hong** and **Professor Oliver Linton**. This English-language textbook covers a range of topics, including **regression models**, **univariate and multivariate time series**, **volatility modeling**, **non-parametric methods**, **machine learning**, and applications to real financial and macroeconomic data. It includes **R code** and extensive examples, designed for both classroom teaching and self-study. The textbook also has an accompanying **[website](https://quantinar.com/course/1033/econometrics-and-time-series-methods-theory-applications-and-r-implementation)** and **[GitHub repository](https://github.com/QuantLet/Econometrics_R)** for additional resources, making it accessible for a global audience of students and researchers.
+3. **“Econometrics and Time Series Methods: Theory, Applications, and R Implementation”** (First Author), in collaboration with **Professor Yongmiao Hong** and **Professor Oliver Linton**. This English-language textbook covers a range of topics, including **regression models**, **univariate and multivariate time series**, **volatility modeling**, **non-parametric methods**, **machine learning**, and applications to real financial and macroeconomic data. It includes **R code** and extensive examples, designed for both classroom teaching and self-study. The textbook also has accompanying resources:
+
+[<img src="/images/quantinar.png" alt="Quantinar" height="36">](https://quantinar.com/course/1033/econometrics-and-time-series-methods-theory-applications-and-r-implementation)
+&nbsp;&nbsp;
+[<img src="/images/quantlet.png" alt="QuantLet" height="36">](https://github.com/QuantLet/Econometrics_R)
+
+These include the **course website** and an open **GitHub repository** with **R code**, **slides**, and **teaching materials**, making the book accessible to a global audience of students and researchers.
+
 
 ## Broader Interests
 
