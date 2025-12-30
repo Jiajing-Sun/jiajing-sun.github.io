@@ -7,7 +7,7 @@ excerpt: 'This paper develops a score statistic for testing the presence of a st
 date: 2022-01-01
 venue: 'Economics Letters'
 paperurl: 'https://doi.org/10.1016/j.econlet.2022.110873'
-bibtexurl: 'https://academicpages.github.io/files/bibtex6.bib'
+bibtexurl: 'https://jiajing-sun.github.io/files/bibtex6.bib'
 citation: 'Hong, Y., Linton, O., McCabe, B., & Sun, J. (2022). "A score statistic for testing the presence of a stochastic trend in conditional variances." <i>Economics Letters</i>, 213, 110394.'
 ---
 ## Abstract
