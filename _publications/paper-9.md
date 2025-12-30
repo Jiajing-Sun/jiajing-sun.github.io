@@ -7,7 +7,7 @@ excerpt: 'This paper investigates Chinese leadership practices, focusing on prov
 date: 2018-01-01
 venue: 'Environment and Planning C: Politics and Space'
 paperurl: 'https://doi.org/10.1177/239965441879158'
-bibtexurl: 'https://academicpages.github.io/files/bibtex9.bib'
+bibtexurl: 'https://jiajing-sun.github.io/files/bibtex9.bib'
 citation: 'Sun, J., Cole, M., Huang, Z., & Wang, S. (2018). "Chinese leadership: Provincial perspectives on promotion and performance." <i>Environment and Planning C: Politics and Space</i>, 37(4), 750-772.'
 ---
 
