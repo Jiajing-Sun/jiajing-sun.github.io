@@ -12,7 +12,7 @@ This talk discusses **Sequential Change-Point Detection in Time Series: An Adjus
 
 [<img src="/images/glasgow-pic.jpg"
       alt="Jiajing Sun with Prof. Yongmiao Hong, Glasgow"
-      style="height:120px; width:auto;">](/images/glasgow-pic.jpg)
+      style="height:500px; width:auto;">](/images/glasgow-pic.jpg)
 
 **Citation**: Jiajing Sun. (2025). "Sequential Change-Point Detection in Time Series: An Adjusted-Range-Based Self-Normalization Approach." Presented at Renmin University of China, Beijing, China.
 
