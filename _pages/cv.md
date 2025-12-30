@@ -99,3 +99,13 @@ Service and leadership
 * **Reviewed papers** for various international conferences and journals.  
 * **Invited speaker** at **China Finance Forum** and **various international universities**.
 * **Organized seminars** and workshops in collaboration with international institutions, including **Academia Sinica** and **University of Birmingham**.
+
+Editorial Service
+======
+* **Associate Editor**, *Review of Mathematical Economics*  
+  (International Press)  
+  Editorial board information: https://intlpress.com/journals/journalList?id=1979202226827096065
+
+* **Associate Editor**, *Digital Finance*  
+  (Springer Nature)  
+  Journal homepage: https://link.springer.com/journal/42521
