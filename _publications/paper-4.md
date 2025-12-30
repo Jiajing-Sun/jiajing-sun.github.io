@@ -7,7 +7,7 @@ excerpt: 'This paper introduces a novel method for structural break testing usin
 date: 2024-01-01
 venue: 'Journal of Econometrics'
 paperurl: 'https://doi.org/10.1016/j.jeconom.2023.105603'
-bibtexurl: 'https://academicpages.github.io/files/bibtex4.bib'
+bibtexurl: 'https://jiajing-sun.github.io/files/bibtex4.bib'
 citation: 'Hong, Y., Linton, O., McCabe, B., Sun, J., & Wang, S. (2024). "Kolmogorov-Smirnov type testing for structural breaks: A new adjusted-range-based self-normalization approach." <i>Journal of Econometrics</i>, 238(2), 105603.'
 ---
 ## Abstract
