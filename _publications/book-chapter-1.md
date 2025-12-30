@@ -4,8 +4,7 @@ collection: publications
 category: books
 permalink: /publication/publications/book-chapter-1
 date: 2015-01-01
-venue: "Palgrave Macmillan, London, UK"
-paperurl: "https://link.springer.com/chapter/10.1057/9781137464699_3"
+venue: "Palgrave Macmillan, London, UK" 
 citation: "Li, Z., Sun, J., & Cole, M. (2015). Mechanisms and performance of Chinese bear markets and policy suggestions. In Li, Z., & Cheng, S. (Eds.), The Chinese Stock Market Volume II (pp. 125–189). Palgrave Macmillan."
 ---
 
