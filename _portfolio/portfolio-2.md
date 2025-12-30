@@ -1,6 +1,6 @@
 ---
 title: "Membership Rules and the Pricing of Local Public Goods: Evidence from China’s Hukou System"
-excerpt: "This paper explores how residency as an institutional membership rule affects access to **local public goods** (such as schooling, healthcare, and housing) through pricing and queue priority in China’s Hukou system. The study uses an original survey of **1,565 respondents** across Beijing, Shanghai, and Guangzhou to quantify **user prices** and **realized inflows** at **enforcement gateways**."
+excerpt: "This working paper explores how residency as an institutional membership rule affects access to **local public goods** (such as schooling, healthcare, and housing) through pricing and queue priority in China’s Hukou system. The study uses an original survey of **1,565 respondents** across Beijing, Shanghai, and Guangzhou to quantify **user prices** and **realized inflows** at **enforcement gateways**."
 collection: portfolio
 ---
 
