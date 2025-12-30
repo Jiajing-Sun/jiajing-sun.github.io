@@ -1,5 +1,5 @@
 ---
-title: "Governmental Capabilities and Responsiveness: Global Investigations into CO2 Emissions and Decarbonization"
+title: "Governmental Capabilities and Responsiveness: Global Investigations into CO<sub>2</sub> Emissions and Decarbonization"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-01-governmental-capabilities-and-responsiveness
