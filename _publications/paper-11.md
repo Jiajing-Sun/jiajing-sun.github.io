@@ -1,12 +1,15 @@
+
 ---
-title: "Sun, J., & McCabe, B. P. (2013). Score statistics for testing serial dependence in count data. <i>Journal of Time Series Analysis</i>, 34(3), 315-329."
+title: "Score statistics for testing serial dependence in count data"
 collection: publications
 category: manuscripts
 permalink: /publication/2013-01-01-score-statistics-serial-dependence
+excerpt: 'This paper develops score statistics for testing serial dependence in count data, particularly in time series analysis.'
 date: 2013-01-01
 venue: 'Journal of Time Series Analysis'
 paperurl: 'https://doi.org/10.1111/jtsa.12014'
 bibtexurl: 'https://jiajing-sun.github.io/files/bibtex11.bib'
+citation: 'Sun, J., & McCabe, B. P. (2013). "Score statistics for testing serial dependence in count data." <i>Journal of Time Series Analysis</i>, 34(3), 315-329.'
 ---
 
 
