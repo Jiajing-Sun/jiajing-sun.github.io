@@ -19,4 +19,4 @@ The textbook is supported by a complete **teaching ecosystem**, including open-s
 &nbsp;&nbsp;&nbsp;
 [<img src="/images/quantlet.png" alt="QuantLet" height="10">](https://github.com/QuantLet/Econometrics_R)
 
-
+You can download the slides for econometrics and time series methods here: [Econometrics and Time Series Methods Slides](https://jiajing-sun.github.io/files/Econometrics_R.pdf).
