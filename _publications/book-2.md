@@ -3,7 +3,6 @@ title: "金融科技学 (FinTech)"
 collection: publications
 category: books
 permalink: /publication/publications/book-2
-excerpt: 'This book systematically introduces the development and application of financial technology in China, covering core technologies such as blockchain, big data, cloud computing, and artificial intelligence, as well as their applications in financial services'
 date: 2026-01-01
 venue: '高等教育出版社（Higher Education Press）'
 citation: 'Sun, J., Hong, Y., Wang, S., & Yang, Y. (forthcoming 2026). 金融科技学 (FinTech). Higher Education Press.'
