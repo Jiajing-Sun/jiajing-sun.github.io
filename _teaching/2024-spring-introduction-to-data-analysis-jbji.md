@@ -35,7 +35,7 @@ This **undergraduate module** introduces students to the fundamentals of **data 
    - Introduction to the **Law of Large Numbers** and **Central Limit Theorem**.
 
 ### Teaching Methodology:
-The course is taught using **bilingual instruction**, with **English** slides and materials. Students learn both the **theoretical concepts** and the **practical implementation** of data analysis techniques in **R programming**.
+The course is taught entirely in **English**, with **English** slides and materials. Students learn both the **theoretical concepts** and the **practical implementation** of data analysis techniques in **R programming**.
 
 **Hours**: 40 hours  
 **Handouts**: [DPS-R Handout](https://jiajing-sun.github.io/files/DPS-R-handout.pdf)
