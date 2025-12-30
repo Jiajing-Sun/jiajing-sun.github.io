@@ -3,7 +3,6 @@ title: "Econometrics and Time Series Methods: Theory, Applications, and R Implem
 collection: publications
 category: books
 permalink: /publication/publications/book-3
-excerpt: 'A comprehensive English-language textbook on econometrics and time series methods with full R implementation, supported by open-source slides, a course website, and GitHub code.'
 date: 2026-01-01
 venue: "Springer"
 slidesurl: 'https://jiajing-sun.github.io/files/Econometrics_R.pdf'
