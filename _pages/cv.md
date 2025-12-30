@@ -103,7 +103,7 @@ Service and leadership
 Editorial Service
 ======
 * **Associate Editor**, *Review of Mathematical Economics*  
-  (International Press)  
+  (International Press of Boston)  
   Editorial board information: https://intlpress.com/journals/journalList?id=1979202226827096065
 
 * **Associate Editor**, *Digital Finance*  
