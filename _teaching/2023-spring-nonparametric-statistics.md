@@ -3,7 +3,7 @@ title: "Nonparametric Statistics"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2023-spring-nonparametric-statistics
-venue: "University of Chinese Academy of Sciences, Department of Statistics and Data Science"
+venue: "University of Chinese Academy of Sciences, School of Economics and Management"
 date: 2023-03-01
 location: "Beijing, China"
 ---
