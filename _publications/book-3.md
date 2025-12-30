@@ -15,4 +15,8 @@ citation: 'Hong, Y., Linton, O., & Sun, J. (2026 forthcoming). "Econometrics and
 
 The textbook is supported by a complete **teaching ecosystem**, including open-source lecture slides and a dedicated **course website** ([https://quantinar.com/course/1033/econometrics-and-time-series-methods-theory-applications-and-r-implementation](https://quantinar.com/course/1033/econometrics-and-time-series-methods-theory-applications-and-r-implementation)), as well as an accompanying **GitHub repository** of R code ([https://github.com/QuantLet/Econometrics_R](https://github.com/QuantLet/Econometrics_R)). These resources make it easy for instructors to adopt the book and for students to engage in self-study, especially in fully English-taught and international programs.
 
+[<img src="/images/q2.png" alt="Quantinar" height="10">](https://quantinar.com/course/1033/econometrics-and-time-series-methods-theory-applications-and-r-implementation)
+&nbsp;&nbsp;&nbsp;
+[<img src="/images/quantlet.png" alt="QuantLet" height="10">](https://github.com/QuantLet/Econometrics_R)
+
 
