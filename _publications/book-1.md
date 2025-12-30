@@ -17,3 +17,6 @@ The book places a strong focus on **hands-on implementation using R**, ensuring 
 
 This work is intended for **graduate students**, **advanced undergraduates** in **economics and finance**, and **professionals** engaged in **quantitative finance** and **economic research**. It is ideal for those who seek a **thorough and practical understanding** of **financial econometrics**, with the added benefit of **mastering R** as a tool for **financial analysis and modeling**.
 
+You can download my slides here: [Financial Econometrics Slides](https://jiajing-sun.github.io/files/Financial_Econometrics.pdf).
+
+
