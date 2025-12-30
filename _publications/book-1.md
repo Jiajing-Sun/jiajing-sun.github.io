@@ -9,12 +9,13 @@ slidesurl: 'https://jiajing-sun.github.io/files/Financial_Econometrics.pdf'
 citation: 'Sun, J., Hong, Y., & Linton, O. (forthcoming 2026). 金融计量经济学：理论、案例与 R 语言 (Financial Econometrics: Theory, Cases, and R). Higher Education Press.'
 ---
 
-**中文摘要**:  
-本书全面介绍了金融计量经济学，涵盖了回归分析、时间序列建模、ARCH/GARCH模型等内容，重点使用R语言进行数据分析。全书内容从基础概念到高级技术，包括回归分析、时间序列模型、ARCH/GARCH模型、非参数方法、资产定价模型、连续时间模型和收益率曲线建模。特别强调波动率模型、风险管理和尾部风险估计，并在最后一章探讨了人工智能和机器学习在金融计量经济学中的应用。
+## Abstract
 
-**English Abstract**:  
-This textbook provides a comprehensive introduction to **financial econometrics**, covering **regression analysis**, **time series modeling**, **ARCH/GARCH models**, and more, with a focus on **R programming** for data analysis. It addresses critical issues like **price formation**, **risk measurement**, and **policy transmission** in the context of financial markets, institutions, and instruments. 
+This textbook provides a comprehensive introduction to financial econometrics, covering fundamental theories and practical applications, with a focus on R programming. It offers an in-depth understanding of how econometric methods are applied in the context of financial markets, institutions, and instruments. The book is designed to address critical issues such as price formation, risk measurement, and policy transmission, making it an essential resource for both students and professionals in the field.
 
 The content is structured from foundational concepts to advanced techniques, including regression analysis, time series models, ARCH/GARCH models, nonparametric methods, asset pricing models, continuous time models, and yield curve modeling. Special emphasis is placed on volatility models, risk management, and tail risk estimation, with the final chapters exploring the integration of artificial intelligence and machine learning with financial econometrics.
 
- 
+The book is particularly focused on practical applications using R language, ensuring that readers not only gain theoretical insights but also acquire hands-on skills for data analysis and model implementation. Each chapter is paired with runnable code examples and exercises, offering a step-by-step guide for readers to apply econometric methods to real-world financial data.
+
+This work is intended for graduate students, advanced undergraduates in economics and finance, and professionals engaged in quantitative finance and economic research. It is ideal for those who seek a thorough, practical understanding of financial econometrics, with the added benefit of mastering R as a tool for financial analysis and modeling.
+
