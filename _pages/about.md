@@ -33,9 +33,9 @@ In addition to these methodological contributions, I have authored several textb
 
 3. **“Econometrics and Time Series Methods: Theory, Applications, and R Implementation”** (First Author), in collaboration with **Professor Yongmiao Hong** and **Professor Oliver Linton**. This English-language textbook covers a range of topics, including **regression models**, **univariate and multivariate time series**, **volatility modeling**, **non-parametric methods**, **machine learning**, and applications to real financial and macroeconomic data. It includes **R code** and extensive examples, designed for both classroom teaching and self-study. The textbook also has accompanying resources:
 
-[<img src="/images/quantinar.png" alt="Quantinar" height="36">](https://quantinar.com/course/1033/econometrics-and-time-series-methods-theory-applications-and-r-implementation)
+[<img src="/images/q2.png" alt="Quantinar" height="15">](https://quantinar.com/course/1033/econometrics-and-time-series-methods-theory-applications-and-r-implementation)
 &nbsp;&nbsp;
-[<img src="/images/quantlet.png" alt="QuantLet" height="36">](https://github.com/QuantLet/Econometrics_R)
+[<img src="/images/quantlet.png" alt="QuantLet" height="15">](https://github.com/QuantLet/Econometrics_R)
 
 These include the **course website** and an open **GitHub repository** with **R code**, **slides**, and **teaching materials**, making the book accessible to a global audience of students and researchers.
 
