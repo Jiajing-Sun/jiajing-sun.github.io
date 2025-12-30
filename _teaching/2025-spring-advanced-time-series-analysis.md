@@ -3,7 +3,7 @@ title: "Advanced Time Series Analysis"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2024-spring-advanced-time-series-analysis
-venue: "University of Chinese Academy of Sciences, Department of Statistics and Data Science"
+venue: "University of Chinese Academy of Sciences, School of Economics and Management"
 date: 2025-03-01
 location: "Beijing, China"
 ---
