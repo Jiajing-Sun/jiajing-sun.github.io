@@ -7,7 +7,7 @@ excerpt: 'This paper proposes an information diffusion-based model for predictin
 date: 2013-01-01
 venue: 'Energy Economics' 
 paperurl: 'https://doi.org/10.1016/j.eneco.2012.10.009'
-bibtexurl: 'https://academicpages.github.io/files/bibtex12.bib'
+bibtexurl: 'https://jiajing-sun.github.io/files/bibtex12.bib'
 citation: 'Li, Z., Sun, J., & Wang, S. (2013). "An information diffusion-based model of oil futures price." <i>Energy Economics</i>, 36, 518-525.'
 ---
 
