@@ -1,6 +1,6 @@
 ---
 title: "Megaregion Enlargement and the Geography of Gains: Evidence from the Yangtze River Delta"
-excerpt: "This paper studies how the **2013 enlargement of the Yangtze River Delta (YRD)** reshaped the **geography of gains** across incumbents, entrants, and adjacent non-members. The paper uses **synthetic controls** and **event-time designs** to show that the enlargement increased **per-capita GDP** growth by **1.6 percentage points per year for incumbents** and **0.5 percentage points per year for 2013 entrants**, with weakly negative effects for nearby non-members."
+excerpt: "This working paper studies how the **2013 enlargement of the Yangtze River Delta (YRD)** reshaped the **geography of gains** across incumbents, entrants, and adjacent non-members. The paper uses **synthetic controls** and **event-time designs** to show that the enlargement increased **per-capita GDP** growth by **1.6 percentage points per year for incumbents** and **0.5 percentage points per year for 2013 entrants**, with weakly negative effects for nearby non-members."
 collection: portfolio
 ---
 
