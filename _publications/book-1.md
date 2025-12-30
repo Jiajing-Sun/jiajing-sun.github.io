@@ -3,7 +3,6 @@ title: "金融计量经济学：理论、案例与 R 语言 (Financial Econometr
 collection: publications
 category: books
 permalink: /publication/publications/book-1
-excerpt: 'This book provides a comprehensive introduction to financial econometrics with a focus on data analysis using the R language.'
 date: 2026-01-01
 venue: '高等教育出版社（Higher Education Press）'
 slidesurl: 'https://jiajing-sun.github.io/files/Financial_Econometrics.pdf'
