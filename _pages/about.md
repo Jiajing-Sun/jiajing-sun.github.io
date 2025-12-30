@@ -11,6 +11,7 @@ I am an **Associate Professor** and the **Deputy Director** of the **Department 
 
 I am also a **Chartered Financial Analyst (CFA)** and a **Fellow of the Institute of Mathematics and its Applications (FIMA)**.  
 
+[<img src="/images/jiajing-sun-ucas-qr.png" alt="UCAS Profile QR" height="10">](https://people.ucas.ac.cn/~jiajing-sun?language=en)
 
  
 ## Research Interests 
