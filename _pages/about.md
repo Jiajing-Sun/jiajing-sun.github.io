@@ -11,7 +11,7 @@ I am an **Associate Professor** and the **Deputy Director** of the **Department 
 
 I am also a **Chartered Financial Analyst (CFA)** and a **Fellow of the Institute of Mathematics and its Applications (FIMA)**.  
 
-[<img src="/images/jiajing-sun-ucas-qr.png" alt="UCAS Profile QR" height="10">](https://people.ucas.ac.cn/~jiajing-sun?language=en)
+[<img src="/images/jiajing-sun-ucas-qr.png" alt="UCAS Profile QR" height="20">](https://people.ucas.ac.cn/~jiajing-sun?language=en)
 
  
 ## Research Interests 
@@ -34,9 +34,9 @@ In addition to these methodological contributions, I have authored several textb
 
 3. **“Econometrics and Time Series Methods: Theory, Applications, and R Implementation”** (First Author), in collaboration with **Professor Yongmiao Hong** and **Professor Oliver Linton**. This English-language textbook covers a range of topics, including **regression models**, **univariate and multivariate time series**, **volatility modeling**, **non-parametric methods**, **machine learning**, and applications to real financial and macroeconomic data. It includes **R code** and extensive examples, designed for both classroom teaching and self-study. The textbook also has accompanying resources:
 
-[<img src="/images/q2.png" alt="Quantinar" height="10">](https://quantinar.com/course/1033/econometrics-and-time-series-methods-theory-applications-and-r-implementation)
+[<img src="/images/q2.png" alt="Quantinar" height="20">](https://quantinar.com/course/1033/econometrics-and-time-series-methods-theory-applications-and-r-implementation)
 &nbsp;&nbsp;&nbsp;
-[<img src="/images/quantlet.png" alt="QuantLet" height="10">](https://github.com/QuantLet/Econometrics_R)
+[<img src="/images/quantlet.png" alt="QuantLet" height="20">](https://github.com/QuantLet/Econometrics_R)
 
 These include the **course website** and an open **GitHub repository** with **R code**, **slides**, and **teaching materials**, making the book accessible to a global audience of students and researchers.
 
