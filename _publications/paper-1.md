@@ -5,8 +5,7 @@ category: manuscripts
 permalink: /publication/2025-01-01-structural-stability-of-functional-data
 date: 2025-01-01
 paperurl: 'https://doi.org/10.1016/j.econlet.2025.112350'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: ''
+bibtexurl: 'https://jiajing-sun.github.io/files/bibtex1.bib'
 ---
 
 We propose an adjusted-range-based self-normalization method for testing structural stability in functional data. The approach improves computational efficiency and performs well in empirical applications to temperature data from New York Central Park Weather Station.
