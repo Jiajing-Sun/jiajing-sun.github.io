@@ -11,9 +11,9 @@ I am an **Associate Professor** and the **Deputy Director** of the **Department 
 
 I am also a **Chartered Financial Analyst (CFA)** and a **Fellow of the Institute of Mathematics and its Applications (FIMA)**.  
 
+**Me in 2D:** 
 [<img src="/images/jiajing-sun-ucas-qr.png" alt="UCAS Profile QR" height="20">](https://people.ucas.ac.cn/~jiajing-sun?language=en)
 
- 
 ## Research Interests 
 
 My research spans several domains within **econometrics**, with a particular passion for **financial econometrics**. I develop and apply innovative econometric models to analyze and predict economic and financial trends. One of my key areas of focus is **modeling financial markets**, particularly through **time series analysis**, **volatility modeling**, and **risk management**.
