@@ -7,7 +7,7 @@ excerpt: 'This paper develops a bootstrap test for comparing two variances, focu
 date: 2011-01-01
 venue: 'Journal of Biopharmaceutical Statistics'
 paperurl: 'https://doi.org/10.1080/10543406.2011.611082'
-bibtexurl: 'https://academicpages.github.io/files/bibtex13.bib'
+bibtexurl: 'https://jiajing-sun.github.io/files/bibtex13.bib'
 citation: 'Sun, J., Chernick, M. R., & LaBudde, R. A. (2011). "A bootstrap test for comparing two variances: simulation of size and power in small samples." <i>Journal of Biopharmaceutical Statistics</i>, 21(6), 1079-1093.'
 ---
 ## Abstract
